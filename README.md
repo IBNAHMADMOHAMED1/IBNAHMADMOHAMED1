@@ -25,6 +25,11 @@ Here are some ideas to get you started:
         name.includes(search.value);
 
       });
+      
+```
+```js
+ function createApp(rootComponent: Component, rootProps?: object): App
+      
 ```
 
 ```js
