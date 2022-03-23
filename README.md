@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ```php
  <?php echo 'Hello world'?>
 ```
-```vuejs
+```js
  const matching = computed(() => {
       return names.value.filter((name) => {
         name.includes(search.value);
