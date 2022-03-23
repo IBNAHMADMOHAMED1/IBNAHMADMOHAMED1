@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- I’m currently a web developer 
+- I’m currently learning: Web dev, and more ...
+-  📈 My Github status
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MOHAMEDIBNAHMAD1&theme=radical) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMEDIBNAHMAD1&theme=radical)
