@@ -19,8 +19,12 @@ Here are some ideas to get you started:
 ```php
  <?php echo 'Hello world'?>
 ```
-```js
- const [state,setState] = useState('coding...');
+```vuejs
+ const matching = computed(() => {
+      return names.value.filter((name) => {
+        name.includes(search.value);
+
+      });
 ```
 
 ```js
