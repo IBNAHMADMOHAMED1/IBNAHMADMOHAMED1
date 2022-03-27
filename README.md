@@ -44,7 +44,6 @@ Here are some ideas to get you started:
 ![full-stack-development](https://user-images.githubusercontent.com/77829205/124051039-9ab94900-da13-11eb-9654-1d79bf3cfe37.gif)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOHAMEDIBNAHMAD1&show_icons=true&theme=radical)
 
 
 
