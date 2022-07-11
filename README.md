@@ -46,7 +46,7 @@ function createApp(rootComponent: Component, rootProps?: object): App
 
 ```java
 public class MainActivity extends AppCompatActivity {
-  // return my last name
+
     public String getLastName() {
         return "ibnahmad";
     }
