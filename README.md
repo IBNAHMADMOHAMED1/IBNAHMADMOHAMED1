@@ -40,12 +40,37 @@ Here are some ideas to get you started:
       return;
     }
 ```
+```TypeScript
+function createApp(rootComponent: Component, rootProps?: object): App
+```
+
+```java
+public class MainActivity extends AppCompatActivity {
+  // return my last name
+    public String getLastName() {
+        return "ibnahmad";
+    }
+    public String getFirstName() {
+        return "mohamed";
+    }
+    
+}
+```
+
+```golang
+func main() {
+  fmt.Println("Hello I'm running in golang")
+}
+```
+
+```ruby
+```
+
 
 ![full-stack-development](https://user-images.githubusercontent.com/77829205/124051039-9ab94900-da13-11eb-9654-1d79bf3cfe37.gif)
 
 
 
-![0P9A2660](https://user-images.githubusercontent.com/93975913/178292439-ed2547bd-fb7f-4078-a89e-e8271336b709.JPG)
 
 
 
