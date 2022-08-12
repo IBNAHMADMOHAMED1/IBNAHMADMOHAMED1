@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 ![Profile views](https://gpvc.arturio.dev/MOHAMEDIBNAHMAD1)
 
-```php
- <?php echo 'Hello world'?>
+```lua
+local ind = [🐔,🥚]
+table.sort(ind)
 ```
 ```js
  const matching = computed(() => {
