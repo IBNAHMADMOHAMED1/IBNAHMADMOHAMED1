@@ -1,5 +1,4 @@
 ### Hi there 👋
-### ![icon-react](icon-react.vercel.app)
 
 <!--
 **MOHAMEDIBNAHMAD1/MOHAMEDIBNAHMAD1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
