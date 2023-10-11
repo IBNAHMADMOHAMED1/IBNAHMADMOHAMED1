@@ -14,16 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Profile views](https://gpvc.arturio.dev/MOHAMEDIBNAHMAD1)
 
 ```lua
 local ind = [🐔,🥚]
 table.sort(ind)
-```
-```golang
-func main() {
-  fmt.Println("Hello I'm running in golang")
-}
 ```
 
 
